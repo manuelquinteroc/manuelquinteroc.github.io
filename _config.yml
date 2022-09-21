@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal Website"
+title                    : "Manuel Quintero"
 title_separator          : "-"
 name                     : &name "Manuel Quintero"
 description              : &description "personal description"
@@ -83,7 +83,7 @@ author:
   name             : "Manuel Quintero C."
   avatar           : "Foto Darwin 3.jpg"
   bio              : "Master's student at the Department of Pure Mathematics and Mathematical Statistics, Cambridge University"
-  # location         : "Location"
+  location         : "United Kingdom"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
