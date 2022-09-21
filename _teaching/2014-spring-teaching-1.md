@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "TA Dynamic Macroeconomics I"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Graduate course"
+permalink: 
+venue: "ITAM, Economics"
+date: 2021-01-01
+location: "Mexico City, Mexico"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
