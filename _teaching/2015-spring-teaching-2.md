@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "TA Economic Research"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Graduate course"
+permalink: 
+venue: "ITAM, Economics"
+date: 2021-01-08
+location: "Mexico City, Mexico"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
