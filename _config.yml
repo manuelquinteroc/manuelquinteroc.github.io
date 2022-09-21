@@ -83,9 +83,9 @@ author:
   name             : "Manuel Quintero C."
   avatar           : "Foto Darwin Original.jpg"
   bio              : "Master's student at the Department of Pure Mathematics and Mathematical Statistics, Cambridge University"
-  location         : "Location"
+  # location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "manuelquinteroc"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "www.linkedin.com/in/manuelquinteroc"
   # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
