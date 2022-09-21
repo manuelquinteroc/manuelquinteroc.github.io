@@ -1,7 +1,7 @@
 ---
 title: "TA Seminar on Economic Reserach"
 collection: teaching
-type: "Graduate course"
+type: "Undergraduate course"
 venue: "ITAM, Economics"
 date: 2021-01-08
 location: "Mexico City, Mexico"
