@@ -22,12 +22,12 @@ permalink: /publication2/
 Working paper with Fotini Christia, Horacio Larreguy, and Elizabeth Parker-Magyar, 2022.
 
 <a class = "social-icon" href="files/../../files/Paper Egypt 2022.pdf" target = "_blank"> 
-<img height="24" width="24" src="images/../../images/pdf-svgrepo-com.svg" /></a>
+<img height="20" width="20" src="images/../../images/pdf-svgrepo-com.svg" /></a>
 <a class = "social-icon" href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VFFZRM" target = "_blank"> 
-<img height="24" width="24" src="images/../../images/code-svgrepo-com.svg" /> 
+<img height="20" width="20" src="images/../../images/code-svgrepo-com.svg" /> 
 </a>
 <a class = "social-icon" href="files/../../files/Paper Egypt 2022.txt" target = "_blank"> 
-<img height="24" width="24" src="images/../../images/quote-svgrepo-com.svg" /> 
+<img height="20" width="20" src="images/../../images/quote-svgrepo-com.svg" /> 
 </a>
 
 ***
@@ -35,12 +35,12 @@ Working paper with Fotini Christia, Horacio Larreguy, and Elizabeth Parker-Magya
 Working paper with Antonella Bandiera, Horacio Larreguy, John Marhsall, and Daniela Pinto, 2022.
 
 <a class = "social-icon" href="files/../../files/Paper Bolivia 2022.pdf" target = "_blank"> 
-<img height="24" width="24" src="images/../../images/pdf-svgrepo-com.svg" /></a>
+<img height="20" width="20" src="images/../../images/pdf-svgrepo-com.svg" /></a>
 <a class = "social-icon" href="https://github.com/manuelquinteroc/MisinformationBolivia" target = "_blank"> 
-<img height="24" width="24" src="images/../../images/code-svgrepo-com.svg" /> 
+<img height="20" width="20" src="images/../../images/code-svgrepo-com.svg" /> 
 </a>
 <a class = "social-icon" href="files/../../files/Paper Bolivia 2022.txt" target = "_blank"> 
-<img height="24" width="24" src="images/../../images/quote-svgrepo-com.svg" /> 
+<img height="20" width="20" src="images/../../images/quote-svgrepo-com.svg" /> 
 </a>
 
 ***
@@ -48,7 +48,7 @@ Working paper with Antonella Bandiera, Horacio Larreguy, John Marhsall, and Dani
 INEGI, 2020.
 
 <a class = "social-icon" href="files/../../files/GTDCFC_2020.pdf" target = "_blank"> 
-<img height="24" width="24" src="images/../../images/pdf-svgrepo-com.svg" /></a>
+<img height="20" width="20" src="images/../../images/pdf-svgrepo-com.svg" /></a>
 <a class = "social-icon" href="files/../../files/GTDCFC_2020.txt" target = "_blank"> 
-<img height="24" width="24" src="images/../../images/quote-svgrepo-com.svg" /> 
+<img height="20" width="20" src="images/../../images/quote-svgrepo-com.svg" /> 
 </a>
