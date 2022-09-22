@@ -8,7 +8,7 @@ redirect_from:
 - /about.html
 ---
 
-I am a master student at the [Department of Pure Mathematics and Mathematical Statistics (DPMMS)](https://www.dpmms.cam.ac.uk/) at Cambridge University studying [Part iii](https://en.wikipedia.org/wiki/Part_III_of_the_Mathematical_Tripos) with primary focus on Mathematical Statistics. I consider myself a multidisciplinary individual with interest ranging from modern statistics, economics, and pure mathematics.
+I am a master's student at the [Department of Pure Mathematics and Mathematical Statistics (DPMMS)](https://www.dpmms.cam.ac.uk/) at Cambridge University studying [Part iii](https://en.wikipedia.org/wiki/Part_III_of_the_Mathematical_Tripos) with primary focus on Mathematical Statistics. I consider myself a multidisciplinary individual with interest ranging from modern statistics, economics, and pure mathematics.
 
 ------
 
