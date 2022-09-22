@@ -185,7 +185,8 @@
     text-decoration: none;
 
     &:hover {
-      color: $masthead-link-color-hover;
+      /*color: $masthead-link-color-hover; */
+      color: $link-color; /* modify underlying color when hoovering navigation menu*/
     }
   }
 
@@ -326,9 +327,7 @@
     color: inherit;
 
     &:hover {
-      box-shadow: inset 100px 0 0 0 #54b3d6;
-      color: white;
-      /*text-decoration: underline; */
+      text-decoration: underline;
     }
   }
 
