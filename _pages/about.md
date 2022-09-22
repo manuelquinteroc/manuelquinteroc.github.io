@@ -25,6 +25,8 @@ Bio
 
 Before coming to Cambridge University, I completed a BS in Applied Mathematics and a BA in Economics at [ITAM](https://www.itam.mx/), Mexico, where I graduated with the maximum distinction (Honor mention) from both degrees. 
 
+------
+
 Honors and Awards
 ======
 
