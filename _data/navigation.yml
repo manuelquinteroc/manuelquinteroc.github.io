@@ -11,7 +11,7 @@ main:
 #    url: /publications/
 
   - title: "Publications"
-    url: /_pages/publications_test.html
+    url: /publication2/
     
   - title: "Teaching"
     url: /teaching2/    
