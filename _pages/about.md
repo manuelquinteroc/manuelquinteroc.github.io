@@ -25,4 +25,13 @@ Bio
 
 Before coming to Cambridge University, I completed a BS in Applied Mathematics and a BA in Economics at [ITAM](https://www.itam.mx/), Mexico, where I graduated with the maximum distinction (Honor mention) from both degrees. 
 
+Honors and Awards
+======
 
+* Research Award: Honorable mention in Applied Mathematics (July 2022).
+* Research Award: Honorable mention in Economics (Jun 2022).
+- Sage Fellowship, Cornell University - Rejected (Mar 2022).
+- Undergraduate Student Scholarships at ITAM (Aug 2015 - Aug 2018).
+- Finalist at MIT Delta V – Epic lab (2017).
+- Business School Excellence Award – ITAM (Aug 2015 – Dec 2016).
+- High School Valedictorian – Instituto Chapultepec (2015).
