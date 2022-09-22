@@ -32,7 +32,7 @@ Working paper with Fotini Christia, Horacio Larreguy, and Elizabeth Parker-Magya
 
 ***
 ### Can We Shield Citizens Against Misinformation Through Digital Literacy Training and Fact-checks?
-Working paper with Antonella Bandiera, Horacio Larreguy, John Marhsall, and Daniela Pinto, 2022.
+Working paper with Antonella Bandiera, Horacio Larreguy, John Marhsall, and Daniela Pinto, 2022. 
 
 <a class = "social-icon" href="files/../../files/Paper Bolivia 2022.pdf" target = "_blank"> 
 <img height="20" width="20" src="images/../../images/pdf-svgrepo-com.svg" /></a>
