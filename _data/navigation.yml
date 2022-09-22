@@ -7,9 +7,12 @@ main:
   - title: "CV"
     url: /files/Manuel Quintero CV.pdf
     
-  - title: "Publications"
-    url: /publications/
+#  - title: "Publications"
+#    url: /publications/
 
+  - title: "Publications"
+    url: /publications_test.html
+    
   - title: "Teaching"
     url: /teaching2/    
 
