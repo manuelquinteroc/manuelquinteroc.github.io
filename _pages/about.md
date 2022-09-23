@@ -15,7 +15,7 @@ I am a master's student at the [Department of Pure Mathematics and Mathematical 
 Research
 ======
 
-My current research interests lie at the construction of the intersection between machine learning and causal inference as well as applications in the social sciences, such as in development economics. In the past, I have worked with structural models, causal inference models, and randomized control trials to understand and mitigate social problems.
+My current research interests lie at the construction of the intersection between machine learning and causal inference as well as applications in the social sciences, such as in development economics. In the past, I have worked with structural models, causal inference, and randomized control trials to understand and mitigate social problems.
 
 ------
 
