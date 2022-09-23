@@ -18,6 +18,7 @@ permalink: /publication2/
 </style>
 
 ***
+<!---
 ### Can Media Campaigns Empower Women Facing Gender-Based Violence amid COVID-19?
 Working paper with Fotini Christia, Horacio Larreguy, and Elizabeth Parker-Magyar, 2022.
 
@@ -29,6 +30,7 @@ Working paper with Fotini Christia, Horacio Larreguy, and Elizabeth Parker-Magya
 <a class = "social-icon" href="files/../../files/Paper Egypt 2022.txt" target = "_blank"> 
 <img height="20" width="20" src="images/../../images/quote-svgrepo-com.svg" /> 
 </a>
+-->
 
 ***
 ### Can We Shield Citizens Against Misinformation Through Digital Literacy Training and Fact-checks?
