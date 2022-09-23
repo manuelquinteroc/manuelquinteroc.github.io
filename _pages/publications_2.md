@@ -17,8 +17,8 @@ permalink: /publication2/
     }
 </style>
 
-***
 <!---
+***
 ### Can Media Campaigns Empower Women Facing Gender-Based Violence amid COVID-19?
 Working paper with Fotini Christia, Horacio Larreguy, and Elizabeth Parker-Magyar, 2022.
 
