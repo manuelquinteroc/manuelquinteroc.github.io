@@ -8,14 +8,14 @@ redirect_from:
 - /about.html
 ---
 
-I am a master's student at the [Department of Pure Mathematics and Mathematical Statistics (DPMMS)](https://www.dpmms.cam.ac.uk/) at Cambridge University studying [Part iii](https://en.wikipedia.org/wiki/Part_III_of_the_Mathematical_Tripos) with primary focus on Mathematical Statistics. I consider myself a multidisciplinary individual with interest ranging from modern statistics, economics, and pure mathematics.
+I am a master's student at the [Department of Pure Mathematics and Mathematical Statistics (DPMMS)](https://www.dpmms.cam.ac.uk/) at Cambridge University studying [Part iii](https://en.wikipedia.org/wiki/Part_III_of_the_Mathematical_Tripos) with primary focus on Mathematical Statistics. I consider myself a multidisciplinary individual with interest ranging from Modern Statistics, Economics, and Pure Mathematics.
 
 ------
 
 Research
 ======
 
-My current research interests lie at the construction of the intersection between machine learning and causal inference as well as applications in the social sciences, such as in development economics. In the past, I have worked with structural models, causal inference, and randomized control trials to understand and mitigate social problems.
+My current research interests lie at the construction of the intersection between machine learning and causal inference as well as applications in the social sciences, such as in development economics. In the past, I have worked with Time Series, Structural Models, Causal Inference, and Randomized Controlled Trials to understand and mitigate social problems.
 
 ------
 
