@@ -6,7 +6,7 @@ title: "Teaching"
 
 ## Instituto Tecnologico Autonomo de Mexico (ITAM)
 - TA: Applied Research I --- Masters of Applied Economics --- (Fall 2021)
-    - [R tutorial (Spanish)](/files/Paper Bolivia 2022.pdf), [Stata (Spanish)](), [LaTeX tutorial (Spanish)](), [Quasi-experimental methods]()
+    - [R tutorial (Spanish)](./files/Paper Bolivia 2022.pdf), [Stata (Spanish)](), [LaTeX tutorial (Spanish)](), [Quasi-experimental methods]()
 
 - TA: Economic Research Seminar --- Undergraduate Economics --- (Fall 2021)
     - Same material as Applied Research I.
