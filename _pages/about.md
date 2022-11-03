@@ -14,9 +14,10 @@ I am a master's student at the [Department of Pure Mathematics and Mathematical 
 
 Research
 ======
-
+<---
 My current research interests lie at the construction of the intersection between Machine Learning and Causal Inference as well as applications in the social sciences, such as in development economics. In the past, I have worked with Time Series, Structural Models, Causal Inference, and Randomized Controlled Trials to understand and mitigate social problems.
-
+--->
+My current research interests lie in developing and applying statistical methods to estimate causal effects and the construction of Machine Learning and AI for Causal Inference, as well as applications of such techniques in the social sciences. In the past, I have worked with Time Series, Structural Models, Causal Inference, and Randomized Controlled Trials to understand and mitigate social problems.
 ------
 
 Bio
