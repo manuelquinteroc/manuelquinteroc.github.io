@@ -20,7 +20,7 @@ permalink: /publication2/
 
 ***
 ### Can Media Campaigns Empower Women Facing Gender-Based Violence amid COVID-19?
-Working paper with Fotini Christia, Horacio Larreguy, and Elizabeth Parker-Magyar, 2022.
+Revised and Resubmitted to Nature Human Behavior (with Fotini Christia, Horacio Larreguy, and Elizabeth Parker-Magyar, 2022).
 
 <a class = "social-icon" href="files/../../files/Paper Egypt 2022.pdf" target = "_blank"> 
 <img height="20" width="20" src="images/../../images/pdf-svgrepo-com.svg" /></a>
@@ -34,7 +34,7 @@ Working paper with Fotini Christia, Horacio Larreguy, and Elizabeth Parker-Magya
 
 ***
 ### Can We Shield Citizens Against Misinformation Through Digital Literacy Training and Fact-checks?
-Working paper with Antonella Bandiera, Horacio Larreguy, John Marhsall, and Daniela Pinto, 2022. 
+Working paper (Antonella Bandiera, Horacio Larreguy, John Marhsall, and Daniela Pinto, 2022). 
 
 <a class = "social-icon" href="files/../../files/Paper Bolivia 2022.pdf" target = "_blank"> 
 <img height="20" width="20" src="images/../../images/pdf-svgrepo-com.svg" /></a>
@@ -47,7 +47,7 @@ Working paper with Antonella Bandiera, Horacio Larreguy, John Marhsall, and Dani
 
 ***
 ### Propuesta para crear un comité de fechado de los ciclos económicos en México
-INEGI, 2020.
+As Resarch Associate. INEGI, 2020.
 
 <a class = "social-icon" href="files/../../files/GTDCFC_2020.pdf" target = "_blank"> 
 <img height="20" width="20" src="images/../../images/pdf-svgrepo-com.svg" /></a>
