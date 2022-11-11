@@ -25,7 +25,7 @@ My current research interests lie in developing and applying statistical methods
 Bio
 ======
 
-Before coming to Cambridge University, I completed a BS in Applied Mathematics and a BA in Economics at [ITAM](https://www.itam.mx/), Mexico, where I graduated with the maximum distinction (Honor mention) from both degrees. 
+Before coming to the University of Cambridge, I completed a BS in Applied Mathematics and a BA in Economics at [ITAM](https://www.itam.mx/), Mexico, where I graduated with the maximum distinction (Honor mention) from both degrees. 
 
 ------
 
