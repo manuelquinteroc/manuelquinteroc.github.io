@@ -20,7 +20,7 @@ permalink: /publication2/
 
 ***
 ### Can Media Campaigns Empower Women Facing Gender-Based Violence amid COVID-19?
-Revised and Resubmitted to Nature Human Behavior (with Fotini Christia, Horacio Larreguy, and Elizabeth Parker-Magyar, 2022).
+Revised and resubmitted to Nature Human Behavior (with Fotini Christia, Horacio Larreguy, and Elizabeth Parker-Magyar, 2022).
 
 <a class = "social-icon" href="files/../../files/Paper Egypt 2022.pdf" target = "_blank"> 
 <img height="20" width="20" src="images/../../images/pdf-svgrepo-com.svg" /></a>
