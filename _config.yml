@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Manuel Quintero"
   avatar           : "Foto Darwin 3.jpg"
-  bio              : "Mathematician, University of Cambridge"
-  location         : "United Kingdom"
+  bio              : "PhD Student at MIT"
+  location         : "Cambridge, MA"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "manuelquinterocoronel@gmail.com"
+  email            : "mquint@mit.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
