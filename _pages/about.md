@@ -26,4 +26,3 @@ Honors and Awards
 * Research Award: Honorable mention in Economics (Jun 2022).
 * Undergraduate Student Scholarships at ITAM (Aug 2015 - Aug 2018).
 * Business School Excellence Award – ITAM (Aug 2015 – Dec 2016).
-* High School Valedictorian – Instituto Chapultepec (2015).
