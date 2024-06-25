@@ -5,6 +5,7 @@ title: "Teaching"
 
 ## Massachusetts Institute of Technology (MIT)
 -Lecture notes on [Game Theory](files/../../files/Introduction_to_Game_Theory_Notes.pdf)
+
 -Lecture notes on [Optimal Transport](files/../../files/Optimal_Transport_Notes.pdf)
 
 ## Instituto Tecnologico Autonomo de Mexico (ITAM)
