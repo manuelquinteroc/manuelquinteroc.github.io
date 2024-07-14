@@ -25,7 +25,7 @@ Published in Nature Human Behavior (with Fotini Christia, Horacio Larreguy, and 
 <a class = "social-icon" href="files/../../files/Paper Egypt 2022.pdf" target = "_blank"> 
 <img height="20" width="20" src="images/../../images/pdf-svgrepo-com.svg" /></a>
 <a class = "social-icon" href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VFFZRM" target = "_blank"> 
-<img height="20" width="20" src="images/../../images/clip-paperclip-svgrepo-com.svg" /> 
+<img height="20" width="20" src="images/../../images/code-svgrepo-com.svg" /> 
 </a>
 <!--
 <a class = "social-icon" href="files/../../files/Paper Bolivia 2022.txt" target = "_blank"> 
@@ -33,7 +33,7 @@ Published in Nature Human Behavior (with Fotini Christia, Horacio Larreguy, and 
 </a>
 -->
 <a class = "social-icon" href="https://www.nature.com/articles/s41562-023-01665-y" target = "_blank"> 
-    <img height="20" width="20" src="images/../../images/clip-svgrepo-com.svg" />
+    <img height="20" width="20" src="images/../../images/clip-paperclip-svgrepo-com.svg" />
 </a>
 
 
