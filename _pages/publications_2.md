@@ -19,22 +19,22 @@ permalink: /publication2/
 
 
 ***
-### Can Media Campaigns Empower Women Facing Gender-Based Violence amid COVID-19?
-Revised and resubmitted to Nature Human Behavior (with Fotini Christia, Horacio Larreguy, and Elizabeth Parker-Magyar, 2022).
+### Empowering women facing gender-based violence amid COVID-19 through media campaigns
+Published in Nature Human Behavior (with Fotini Christia, Horacio Larreguy, and Elizabeth Parker-Magyar, 2023) - https://doi.org/10.1038/s41562-023-01665-y.
 
 <a class = "social-icon" href="files/../../files/Paper Egypt 2022.pdf" target = "_blank"> 
 <img height="20" width="20" src="images/../../images/pdf-svgrepo-com.svg" /></a>
 <a class = "social-icon" href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VFFZRM" target = "_blank"> 
 <img height="20" width="20" src="images/../../images/code-svgrepo-com.svg" /> 
 </a>
-<a class = "social-icon" href="files/../../files/Paper Egypt 2022.txt" target = "_blank"> 
+<a class = "social-icon" href="[files/../../files/Paper Egypt 2022.txt](https://www.nature.com/articles/s41562-023-01665-y#citeas)" target = "_blank"> 
 <img height="20" width="20" src="images/../../images/quote-svgrepo-com.svg" /> 
 </a>
 
 
 ***
 ### Can We Shield Citizens Against Misinformation Through Digital Literacy Training and Fact-checks?
-Working paper (Antonella Bandiera, Horacio Larreguy, John Marhsall, and Daniela Pinto, 2022). 
+Working paper (Antonella Bandiera, Horacio Larreguy, John Marhsall, and Daniela Pinto, 2024). 
 
 <a class = "social-icon" href="files/../../files/Paper Bolivia 2022.pdf" target = "_blank"> 
 <img height="20" width="20" src="images/../../images/pdf-svgrepo-com.svg" /></a>
