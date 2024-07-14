@@ -20,7 +20,7 @@ permalink: /publication2/
 
 ***
 ### Empowering women facing gender-based violence amid COVID-19 through media campaigns
-Published in Nature Human Behavior (with Fotini Christia, Horacio Larreguy, and Elizabeth Parker-Magyar, 2023) - https://doi.org/10.1038/s41562-023-01665-y.
+Published in Nature Human Behavior (with Fotini Christia, Horacio Larreguy, and Elizabeth Parker-Magyar, 2023).
 
 <a class = "social-icon" href="files/../../files/Paper Egypt 2022.pdf" target = "_blank"> 
 <img height="20" width="20" src="images/../../images/pdf-svgrepo-com.svg" /></a>
