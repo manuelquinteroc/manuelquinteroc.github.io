@@ -26,7 +26,8 @@ Affiliations
 * [Statistics and Data Science Center](https://stat.mit.edu/)
 * [Institute for Data, Systems, and Society (IDSS)](https://idss.mit.edu/)
 * 
-------
+
+
 News
 ======
 
