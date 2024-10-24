@@ -25,8 +25,8 @@ Affiliations
 * [Laboratory for Information and Decision Systems (LIDS)](https://lids.mit.edu/)
 * [Statistics and Data Science Center](https://stat.mit.edu/)
 * [Institute for Data, Systems, and Society (IDSS)](https://idss.mit.edu/)
-* 
 
+------
 
 News
 ======
