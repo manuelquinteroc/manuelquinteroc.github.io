@@ -8,7 +8,7 @@ redirect_from:
 - /about.html
 ---
 
-I am a second-year PhD student at MIT in the [Institute for Data, Systems, and Society (IDSS)](https://idss.mit.edu/) and the [Laboratory for Information and Decision Systems (LIDS)](https://lids.mit.edu/), where I work on Statistics and Machine Learning under the supervision of Professor [Tamara Broderick](https://tamarabroderick.com/). Prior to MIT, I received my master's degree in Mathematics from the University of Cambridge ([Part iii](https://en.wikipedia.org/wiki/Part_III_of_the_Mathematical_Tripos)) with a primary focus on Statistics, Probability, and Optimization. I also hold a BS in Applied Mathematics and a BA in Economics from [ITAM](https://www.itam.mx/), Mexico.
+I am a second-year PhD student at MIT IDSS, working on Statistics and Machine Learning under the supervision of Professor [Tamara Broderick](https://tamarabroderick.com/). I hold a master's degree in Mathematics from the University of Cambridge ([Part iii](https://en.wikipedia.org/wiki/Part_III_of_the_Mathematical_Tripos)), focused on Statistics, Probability, and Optimization, and a BS in Applied Mathematics and a BA in Economics from [ITAM](https://www.itam.mx/), Mexico.
 
 ------
 
@@ -19,6 +19,14 @@ My current research interests include mathematical statistics, machine learning,
 
 ------
 
+Affiliations
+======
+
+* [Laboratory for Information and Decision Systems (LIDS)](https://lids.mit.edu/)
+* [Statistics and Data Science Center](https://stat.mit.edu/)
+* [Institute for Data, Systems, and Society (IDSS)](https://idss.mit.edu/)
+* 
+------
 News
 ======
 
