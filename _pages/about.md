@@ -30,7 +30,7 @@ Affiliations
 
 News
 ======  
-* **November 2024**: Awarded the MIT IDSS Brescia Fellowship for 2025.  
+* **January 2025**: Awarded the MIT IDSS Brescia Fellowship for 2025.  
 * **December 2024**: Presenting research on functional decompositions for difference in means at the ATTRIB workshop, NeurIPS 2024.  
 * **September 2023**: Received the MIT Presidential Graduate Fellowship (2023-24).  
 
