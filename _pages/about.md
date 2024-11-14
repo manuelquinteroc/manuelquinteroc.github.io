@@ -29,16 +29,16 @@ Affiliations
 ------
 
 News
-======
+======  
+* **November 2024**: Awarded the MIT IDSS Brescia Fellowship for 2025.  
+* **December 2024**: Presenting research on functional decompositions for difference in means at the ATTRIB workshop, NeurIPS 2024.  
+* **September 2023**: Received the MIT Presidential Graduate Fellowship (2023-24).  
 
-* December 2024: Presenting work on functional decompositions for difference in means at ATTRIB NeurIPS 2024 workshop.
-* September 2023: Honored with the Presidential Graduate Fellowship, MIT (23-24).
-
-------
+---
 
 Honors and Awards
-======
-
-* Presidential Graduate Fellow, MIT (23-24).
-* Research Award: Honorable mention in Applied Mathematics (July 2022).
-* Research Award: Honorable mention in Economics (Jun 2022).
+======  
+* **MIT IDSS Brescia Fellowship** (2025)  
+* **MIT Presidential Graduate Fellowship** (2023-24)  
+* **Research Award**: Honorable Mention in Applied Mathematics (July 2022)  
+* **Research Award**: Honorable Mention in Economics (June 2022)  
