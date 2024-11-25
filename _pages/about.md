@@ -8,7 +8,7 @@ redirect_from:
 - /about.html
 ---
 
-I am a second-year PhD student at MIT IDSS, working on Statistics and Machine Learning under the supervision of Professor [Tamara Broderick](https://tamarabroderick.com/). I hold a master's degree in Mathematics from the University of Cambridge ([Part iii](https://en.wikipedia.org/wiki/Part_III_of_the_Mathematical_Tripos)), focused on Statistics, Probability, and Optimization, and a BS in Applied Mathematics and a BA in Economics from [ITAM](https://www.itam.mx/), Mexico.
+I am a second-year PhD student at MIT [IDSS](https://idss.mit.edu/) and a member of [LIDS](https://lids.mit.edu/) working on Statistics and Machine Learning under the supervision of Professor [Tamara Broderick](https://tamarabroderick.com/). I hold a master's degree in Mathematics from the University of Cambridge ([Part III](https://en.wikipedia.org/wiki/Part_III_of_the_Mathematical_Tripos)), focused on Statistics, Probability, and Optimization, as well as a BS in Applied Mathematics and a BA in Economics from [ITAM](https://www.itam.mx/) in Mexico.
 
 ------
 
