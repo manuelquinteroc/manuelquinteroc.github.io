@@ -18,22 +18,28 @@ permalink: /publication2/
 </style>
 
 ***
-### COMMON FUNCTIONAL DECOMPOSITIONS CAN MIS-ATTRIBUTE DIFFERENCES IN OUTCOMES BETWEEN POPULATIONS
+### Common functional decompositions can mis-attribute differences in outcomes between populations
 Oral presentation at ATTRIB NeurIPS 2024 Workshop.
 
-<div style="border: 1px solid #cccccc; padding: 10px; border-radius: 5px; background-color: #f9f9f9;">
-    <strong>Abstract:</strong> In science and social science, we often wish to explain why an outcome is different in two populations. 
-    For instance, if a jobs program benefits members of one city more than another, is that due to differences in program participants 
-    (particular covariates) or the local labor markets (outcomes given covariates)? The Kitagawa-Oaxaca-Blinder (KOB) decomposition is 
-    a standard tool in econometrics that explains the difference in the mean outcome across two populations. However, the KOB decomposition 
-    assumes a linear relationship between covariates and outcomes, while the true relationship may be meaningfully nonlinear. Modern machine 
-    learning boasts a variety of nonlinear functional decompositions for the relationship between outcomes and covariates in one population. 
-    It seems natural to extend the KOB decomposition using these functional decompositions. We observe that a successful extension should not 
-    attribute the differences to covariates—or, respectively, outcomes given covariates — if those are the same in the two populations. 
-    Unfortunately, we demonstrate that, even in simple examples, two common decompositions —the functional ANOVA and Accumulated Local Effects— 
-    can attribute differences to outcomes given covariates, even when they are identical in two populations. We provide a characterization of 
-    when functional ANOVA misattributes, as well as a general property that any decomposition must satisfy to avoid misattribution. We show that 
-    if the decomposition is independent of its input distribution, it does not misattribute. We further conjecture that misattribution.
+<div style="margin-top: 10px;">
+    <button style="border: none; background-color: #f9f9f9; color: #333333; cursor: pointer; padding: 5px 10px; font-size: 14px; border-radius: 5px;" 
+        onclick="this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'none' ? 'block' : 'none';">
+        Abstract ▼
+    </button>
+    <div style="display: none; margin-top: 10px; border: 1px solid #cccccc; padding: 10px; border-radius: 5px; background-color: #f9f9f9;">
+        <strong>Abstract:</strong> In science and social science, we often wish to explain why an outcome is different in two populations. 
+        For instance, if a jobs program benefits members of one city more than another, is that due to differences in program participants 
+        (particular covariates) or the local labor markets (outcomes given covariates)? The Kitagawa-Oaxaca-Blinder (KOB) decomposition is 
+        a standard tool in econometrics that explains the difference in the mean outcome across two populations. However, the KOB decomposition 
+        assumes a linear relationship between covariates and outcomes, while the true relationship may be meaningfully nonlinear. Modern machine 
+        learning boasts a variety of nonlinear functional decompositions for the relationship between outcomes and covariates in one population. 
+        It seems natural to extend the KOB decomposition using these functional decompositions. We observe that a successful extension should not 
+        attribute the differences to covariates—or, respectively, outcomes given covariates — if those are the same in the two populations. 
+        Unfortunately, we demonstrate that, even in simple examples, two common decompositions —the functional ANOVA and Accumulated Local Effects— 
+        can attribute differences to outcomes given covariates, even when they are identical in two populations. We provide a characterization of 
+        when functional ANOVA misattributes, as well as a general property that any decomposition must satisfy to avoid misattribution. We show that 
+        if the decomposition is independent of its input distribution, it does not misattribute. We further conjecture that misattribution.
+    </div>
 </div>
 
 
