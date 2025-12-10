@@ -18,6 +18,26 @@ permalink: /publication2/
 </style>
 
 ***
+### Network Risk Propagation in Contractor Surety Bonds  
+arXiv preprint (2025).
+
+<a class = "social-icon" href="https://arxiv.org/abs/2511.05691" target = "_blank"> 
+<img height="20" width="20" src="images/../../images/pdf-svgrepo-com.svg" />
+</a>
+
+<div style="margin-top: 10px;">
+    <button style="border: none; background-color: #f9f9f9; color: #333333; cursor: pointer; padding: 5px 10px; font-size: 14px; border-radius: 5px;" 
+        onclick="this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'none' ? 'block' : 'none';">
+        Abstract ▼
+    </button>
+    <div style="display: none; margin-top: 10px; border: 1px solid #cccccc; padding: 10px; border-radius: 5px; background-color: #f9f9f9;">
+        <strong>Abstract:</strong> Surety bonds are financial agreements between a contractor (principal) and obligee (project owner) to complete a project. However, most large-scale projects involve multiple contractors, creating a network and introducing the possibility of incomplete obligations to propagate and result in project failures. Typical models for risk assessment assume independent failure probabilities within each contractor. However, we take a network approach, modeling the contractor network as a directed graph where nodes represent contractors and project owners and edges represent contractual obligations with associated financial records. To understand risk propagation throughout the contractor network, we extend the celebrated Friedkin–Johnsen model and introduce a stochastic process to simulate principal failures across the network. From a theoretical perspective, we show that under natural monotonicity conditions on the contractor network, incorporating network effects leads to increases in both the average risk and the tail probability mass of the loss distribution (that is, larger right-tail risk) for the surety organization. We further use data from a partnering insurance company to validate our findings, estimating an approximately 2% higher exposure when accounting for network effects.
+    </div>
+</div>
+
+***
+
+
 ### Common functional decompositions can mis-attribute differences in outcomes between populations
 Oral presentation at ATTRIB NeurIPS 2024 Workshop.
 
@@ -88,3 +108,4 @@ As Resarch Associate. INEGI, 2020.
 <img height="20" width="20" src="images/../../images/quote-svgrepo-com.svg" /> 
 </a>
 -->
+
