@@ -1,6 +1,6 @@
 # manuelquinteroc.github.io
 
-Personal website of Manuel Quintero Coronel, served by GitHub Pages.
+Personal website of Manuel Quintero, served by GitHub Pages.
 
 - `index.html`: the whole site (About, Research, Experience, Teaching tabs)
 - `assets/css/site.css`, `assets/js/site.js`: styles and tab behavior

@@ -23,7 +23,7 @@
     });
     panels.forEach(function (p) { p.classList.toggle("active", p.id === t.dataset.tab); });
     moveBar(t);
-    document.title = t.dataset.tab === "about" ? "Manuel Quintero Coronel" : t.textContent + " · Manuel Quintero Coronel";
+    document.title = t.dataset.tab === "about" ? "Manuel Quintero" : t.textContent + " · Manuel Quintero";
   }
 
   function fromHash() { show((location.hash || "#about").slice(1)); }
